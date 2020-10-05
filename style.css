@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+h1, p, li{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 48px;
+}
+
+p, li{
+    font-size: 18px;
+}
+
+body{
+    background-color: rgb(201, 211, 219);
+}
